@@ -1,0 +1,36 @@
+
+.navbar{
+    background-color: #3e8b4f;
+}
+
+.nav-link,
+.navbar-brand{
+ color: #fff   
+}
+
+.bg-primary{
+    background-color:#3e8b4f
+}
+
+.color{
+    background-color:#3e8b4f
+}
+.but{
+    background-color:#B8D57E
+}
+
+.login{
+    background-color:#BFC1C4
+}
+
+.home{
+    color: #B8D57E;
+}
+
+.agenda{
+    background-color:#3e8b4f
+}
+
+.body{
+    overflow-x: hidden;
+}
