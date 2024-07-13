@@ -1,6 +1,23 @@
 
 .navbar{
     background-color: #3e8b4f;
+    position: relative;
+}
+
+.stroke{
+    position: absolute;
+    top: 80px;
+    right: 320px;
+}
+
+.roper{
+    position: relative;
+}
+
+.ropes{
+    position: absolute;
+    top: 5px;
+    right: 200px;
 }
 
 .nav-link,
@@ -71,6 +88,7 @@
     top: 200px;
     left: 120px;
     color: #496650;
+    text-align: center;
 }
 
 .schools{
@@ -82,5 +100,34 @@
     font-weight: 300;
     font-size: 20px;
     font-style: normal;
+    text-align: center;
 }
 
+
+.parent-1{
+    position: relative;
+}
+
+
+.grad{
+    background: url(./res/gradient.svg);
+    height: 800px;
+    width: 100%;
+
+}
+
+.cards{
+    position: relative;
+}
+
+.top{
+    position: absolute;
+    top: 160px;
+    left: 170px;
+    z-index: 1;
+}
+
+.height{
+font-weight: 700;
+font-size: 40px;
+}
