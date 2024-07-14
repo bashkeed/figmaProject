@@ -128,6 +128,52 @@
 }
 
 .height{
-font-weight: 700;
-font-size: 40px;
+font-weight: 500;
+font-size: 30px;
+}
+
+.image{
+   max-width:1200px;
+   max-height: 300px;
+   border-radius: 15px;
+}
+
+.contain{
+    position: relative;
+}
+
+.iphone{
+    position: absolute;
+    top: 70px;
+    left: 200px;
+}
+
+.bb{
+    position: absolute;
+    top: 120px;
+    left: 720px;
+}
+
+.mc{
+    position: absolute;
+    top: 80px;
+    left: 360px;
+}
+
+.last{
+    position: absolute;
+    top: -15px;
+    left: 2px;
+}
+
+.mac-win{
+    position: absolute;
+    top: 160px;
+    left: 523px;
+}
+
+.ios-and{
+    position: absolute;
+    top: 220px;
+    left: 523px;
 }
